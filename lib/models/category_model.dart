@@ -40,7 +40,7 @@ class CategoryModel {
         boxColor: const Color(0xff9DCEFF)));
 
     categories.add(CategoryModel(
-        name: 'Aloo',
+        name: 'roti',
         iconPath: 'assets/icons/pie.svg',
         boxColor: const Color.fromARGB(255, 53, 91, 129)));
 
