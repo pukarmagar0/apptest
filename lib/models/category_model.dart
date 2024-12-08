@@ -40,14 +40,9 @@ class CategoryModel {
         boxColor: const Color(0xff9DCEFF)));
 
     categories.add(CategoryModel(
-        name: 'Smoothies',
-        iconPath: 'assets/icons/orange-snacks.svg',
-        boxColor: const Color(0xffEEA4CE)));
-
-    categories.add(CategoryModel(
-        name: 'Pie',
+        name: 'Aloo',
         iconPath: 'assets/icons/pie.svg',
-        boxColor: const Color(0xff9DCEFF)));
+        boxColor: const Color.fromARGB(255, 53, 91, 129)));
 
     return categories;
   }
